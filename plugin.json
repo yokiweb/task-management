@@ -1,0 +1,21 @@
+{
+	"logo": "Big Bite Donuts.png",
+	"main": "index.html",
+	"preload": "preload.js",
+	"name": "your plugin ID",
+	"version": "1.0.0",
+	"pluginName": "template",
+	"platform": ["win32", "darwin", "linux"],
+	"description": "plugin template",
+	"author": "QC2168",
+	"homepage": "https://github.com/QC2168",
+	"features": [
+		{
+			"code": "template",
+			"explain": "插件模板主界面",
+			"cmds": [
+				"template"
+			]
+		}
+	]
+}
